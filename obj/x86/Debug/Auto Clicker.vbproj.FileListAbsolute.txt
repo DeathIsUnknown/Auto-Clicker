@@ -1,0 +1,37 @@
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\bin\Debug\Auto Clicker.exe
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\bin\Debug\Auto Clicker.pdb
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\bin\Debug\Auto Clicker.xml
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\obj\x86\Debug\Auto_Clicker.Form1.resources
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\obj\x86\Debug\Auto_Clicker.Resources.resources
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\obj\x86\Debug\Auto Clicker.exe
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\obj\x86\Debug\Auto Clicker.xml
+C:\Users\Unknown\AppData\Local\Temporary Projects\Auto Clicker\obj\x86\Debug\Auto Clicker.pdb
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Debug\Auto Clicker.exe
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Debug\Auto Clicker.xml
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Debug\Auto Clicker.pdb
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\bin\Debug\Auto Clicker.exe
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\bin\Debug\Auto Clicker.pdb
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\bin\Debug\Auto Clicker.xml
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Debug\Auto_Clicker.Resources.resources
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\bin\Debug\Auto Clicker.exe.config
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Debug\Auto_Clicker.Main.resources
+D:\Auto Clicker\bin\Debug\Auto Clicker.exe.config
+D:\Auto Clicker\obj\x86\Debug\Auto Clicker.exe
+D:\Auto Clicker\obj\x86\Debug\Auto Clicker.xml
+D:\Auto Clicker\obj\x86\Debug\Auto Clicker.pdb
+D:\Auto Clicker\bin\Debug\Auto Clicker.exe
+D:\Auto Clicker\bin\Debug\Auto Clicker.pdb
+D:\Auto Clicker\bin\Debug\Auto Clicker.xml
+D:\Auto Clicker\obj\x86\Debug\Auto Clicker.vbprojResolveAssemblyReference.cache
+D:\Auto Clicker\obj\x86\Debug\Auto_Clicker.Resources.resources
+D:\Auto Clicker\obj\x86\Debug\Auto Clicker.vbproj.GenerateResource.Cache
+D:\Auto Clicker\obj\x86\Debug\Auto_Clicker.frmEdit.resources
+D:\Auto Clicker\obj\x86\Debug\Auto_Clicker.frmMain.resources

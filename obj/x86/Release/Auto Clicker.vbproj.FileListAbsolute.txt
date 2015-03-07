@@ -1,0 +1,34 @@
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\bin\Release\Auto Clicker.exe
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\bin\Release\Auto Clicker.pdb
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\bin\Release\Auto Clicker.xml
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Release\Auto_Clicker.Form1.resources
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Release\Auto_Clicker.Resources.resources
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Release\Auto Clicker.exe
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Release\Auto Clicker.xml
+C:\Users\Unknown\Documents\Visual Studio 2010\Projects\Auto Clicker\obj\x86\Release\Auto Clicker.pdb
+D:\Auto Clicker\bin\Release\Auto Clicker.exe.config
+D:\Auto Clicker\obj\x86\Release\Auto Clicker.exe
+D:\Auto Clicker\obj\x86\Release\Auto Clicker.xml
+D:\Auto Clicker\obj\x86\Release\Auto Clicker.pdb
+D:\Auto Clicker\bin\Release\Auto Clicker.exe
+D:\Auto Clicker\bin\Release\Auto Clicker.pdb
+D:\Auto Clicker\bin\Release\Auto Clicker.xml
+D:\Auto Clicker\obj\x86\Release\Auto_Clicker.frmEdit.resources
+D:\Auto Clicker\obj\x86\Release\Auto_Clicker.frmMain.resources
+D:\Auto Clicker\obj\x86\Release\Auto_Clicker.Resources.resources
+D:\Auto Clicker\obj\x86\Release\Auto Clicker.vbproj.GenerateResource.Cache
+C:\Users\Unknown\Desktop\Auto Clicker\bin\Release\Auto Clicker.exe.config
+C:\Users\Unknown\Desktop\Auto Clicker\obj\x86\Release\Auto Clicker.exe
+C:\Users\Unknown\Desktop\Auto Clicker\obj\x86\Release\Auto Clicker.xml
+C:\Users\Unknown\Desktop\Auto Clicker\obj\x86\Release\Auto Clicker.pdb
+C:\Users\Unknown\Desktop\Auto Clicker\bin\Release\Auto Clicker.exe
+C:\Users\Unknown\Desktop\Auto Clicker\bin\Release\Auto Clicker.pdb
+C:\Users\Unknown\Desktop\Auto Clicker\bin\Release\Auto Clicker.xml
+C:\Users\Unknown\Desktop\Auto Clicker\obj\x86\Release\Auto Clicker.vbprojResolveAssemblyReference.cache
+C:\Users\Unknown\Desktop\Auto Clicker\obj\x86\Release\Auto_Clicker.frmEdit.resources
+C:\Users\Unknown\Desktop\Auto Clicker\obj\x86\Release\Auto_Clicker.frmMain.resources
+C:\Users\Unknown\Desktop\Auto Clicker\obj\x86\Release\Auto_Clicker.Resources.resources
+C:\Users\Unknown\Desktop\Auto Clicker\obj\x86\Release\Auto Clicker.vbproj.GenerateResource.Cache
